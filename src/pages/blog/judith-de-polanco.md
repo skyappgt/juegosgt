@@ -9,6 +9,14 @@ tags:
 meta_title: 'juegos '
 meta_description: 'juegos '
 ---
-![](/img/childrens-train.jpg "Q25,200.00")
+# Torre-Tren  =>               **Q25,890.00**
 
-![]()
+1. Resbaladero
+2. Gradas
+3. tunel 
+
+Condiciones:
+
+_Se solicita anticipo de 50%_
+
+> Materiales de Calidad y herrajes galvanizados, son nuestra garantía así como una instalación profesional para grantizar la no ocurrencia de accidentes provocados por el desconocimiento de sistemas de fijación, sujeción, riguidez, torsión, pesos máximos, colgantes, torque, palanca, entre otras fuerzas mecánicas que ocurren en un juego de uso múltiple.
