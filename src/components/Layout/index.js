@@ -27,6 +27,7 @@ class Layout extends Component {
         <div id='content-wrapper'>
           {this.props.children}
         </div>
+        <script id="dsq-count-scr" src="//dejuega.disqus.com/count.js" async></script>
         <Footer />
       </div>
     )
