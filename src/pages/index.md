@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Gatsby Starter Business
+title: Juegos Infantiles en Madera
 heading: Lorem ipsum dolor sit amet
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
@@ -68,7 +68,7 @@ testimonials:
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
       elit.
-meta_title: Inicio | Juegos Infantiles GT
+meta_title: Juegos Infantiles GT
 meta_description: Juegos infantiles
 ---
 
