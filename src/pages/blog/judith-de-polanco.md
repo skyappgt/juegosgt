@@ -30,6 +30,26 @@ _Se solicita anticipo de 50%_
 
 **Entrega:** 8 a 12 días hábiles a partir de recepcion de anticipo
 
-****
+- - -
 
 **Opciones:**
+
+![Q2,950.00](/img/baby-toddler.jpg "Q2,950.00")
+
+## **`Q2,950.00`**
+
+\----------------------------------------------------------------
+
+![Q3,890.00](/img/swashbuckler_01.jpg "Q3,890.00")
+
+## Barco --> Q3,890.00
+
+\--------------------------------------------------------
+
+
+
+![Q5,890.00](/img/childrens-train.jpg "Q5,890.00")
+
+## Tren --> Q5,890.00
+
+Esta imagen es de uno grande pero se haría pequeño, se reduce a la mitad la altura y quedaria con un resbaladero pequeño y el tunel de frente a la altura de las llantas.
