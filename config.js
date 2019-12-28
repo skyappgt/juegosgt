@@ -16,4 +16,8 @@ module.exports = {
   copyright: 'Copyright © 2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
+  dire: 'Quetzaltenango, Guatemala',
+  tel: '+502 45675974',
+  email: 'madisagt@gmail.com',
+  empresa: 'Juegos infantiles en madera'
 }

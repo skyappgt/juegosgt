@@ -9,7 +9,7 @@ const Footer = () => {
           <p>
             {config.copyright}
           </p>
-          <p>Powered by <a href='https://www.gatsbyjs.org'>SkyApps GT</a> Guatemala,C.A. 2019</p>
+          <p>Desarrollado por <a href='https://www.facebook.com/itskyapps'>SkyApps GT</a> Guatemala,C.A. 2019</p>
         </div>
       </div>
     </footer>
