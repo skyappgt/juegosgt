@@ -11,8 +11,6 @@ meta_description: 'juegos '
 ---
 Atentamente le cotizamos lo que nos solicitara:
 
-![](/img/whatsapp-image-2019-12-26-at-14.35.59.jpeg)
-
 # Torre-Tren  =>               **Q9,890.00**
 
 * 1 Resbaladero
@@ -45,8 +43,6 @@ _Se solicita anticipo de 50%_
 ## Barco --> Q3,890.00
 
 \--------------------------------------------------------
-
-
 
 ![Q5,890.00](/img/childrens-train.jpg "Q5,890.00")
 
