@@ -1,14 +1,14 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import config from '../../config'
+import config from '../../../config'
 import Helmet from 'react-helmet'
-import PostCard from '../components/PostCard'
-import Layout from '../components/Layout'
+import PostCard from '../../components/PostCard'
+import Layout from '../../components/Layout'
 
 const PaginationLink = props => {
   if (!props.test) {
     return (
-      <Link to={`/blog/${props.url}`} className='button is-rounded'>
+      <Link to={`/cotizacion/${props.url}`} className='button is-rounded'>
         {props.text}
       </Link>
     )

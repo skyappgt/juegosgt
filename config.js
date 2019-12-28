@@ -13,7 +13,7 @@ module.exports = {
   userTwitter: 'juegosgt',
   userLocation: 'Guatemala, GT',
   userDescription: '',
-  copyright: 'Copyright © Juegos Infantiles GT 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
+  copyright: 'Copyright © Juega GT 2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
 }
