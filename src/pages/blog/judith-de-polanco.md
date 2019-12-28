@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: 'Juegos Infantiles '
+title: Juegos Infantiles -Judith Polanco
 slug: Juego Preescolar
 date: 2019-12-27T02:42:21.088Z
 cover: /img/whatsapp-image-2019-12-26-at-14.35.59.jpeg
