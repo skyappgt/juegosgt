@@ -16,6 +16,8 @@ Atención:  Judith Polanco
 
 Atentamente le cotizamos lo que nos solicitara:
 
+Area: ajustado aproximadamente al 40% del área indicada ( 70 m2)
+
 # Torre-Tren  =>               **Q9,890.00**
 
 * 1 Resbaladero
