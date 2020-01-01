@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
+import logo from '../../assets/img/logo512.png'
 
 const HomePageTemplate = ({
   title,
@@ -25,6 +26,11 @@ const HomePageTemplate = ({
             <div className='column is-10 is-offset-1'>
               <div className='section'>
                 <h1 className='title'>
+                <img
+                    src={logo}
+                    alt="logo"
+                    style={{ width: '4em', height: 'auto' }}
+                  />
                   {title}
                 </h1>
               </div>
