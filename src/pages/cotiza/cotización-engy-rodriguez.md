@@ -13,9 +13,17 @@ Atentamente le cotizamos lo que nos solicitara:
 
 ![Q15,885.00](/img/img_20180131_180209_802.jpg "Q15,885.00")
 
-
-
 ![Q24,590.00](/img/img_20180205_122120_006.jpg "Q24,590.00")
+
+![Q16,250.00](/img/tarco.jpg "Q16,250.00")
+
+
+
+Las Dimensiones de un juego estandar son: 
+
+![Medidas](/img/tarco.png "Medidas")
+
+Pero pueden aumentar o disminuir deacuerdo al área a conveniencia.
 
 ## Condiciones:
 
