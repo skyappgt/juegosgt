@@ -11,9 +11,10 @@ const NotFoundPage = () => (
               <div className='section is-centered'>
                 <h1 className='title'>
                                     404: EXPIRÓ
+                                    La cotización Expiró
                 </h1>
                 <h2 className='subtitle'>
-                                    La cotización Expiró                                  sadness.
+                                    Solicite Nuevamente                          
                 </h2>
               </div>
             </div>
