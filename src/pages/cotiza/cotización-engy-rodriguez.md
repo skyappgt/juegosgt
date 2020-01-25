@@ -59,4 +59,6 @@ Entrega: 8 a 12 días hábiles a partir de recepcion de anticipo y Orden de trab
 
 Materiales de Calidad y herrajes galvanizados, son nuestra garantía así como una instalación profesional para grantizar la no ocurrencia de accidentes provocados por el desconocimiento de sistemas de fijación, sujeción, riguidez, torsión, pesos máximos, colgantes, torque, palanca, entre otras fuerzas mecánicas que ocurren en un juego de uso múltiple.
 
-##
+## Validez:
+
+20 días hábiles a partir de la fecha de la presente cotización
