@@ -2,6 +2,7 @@ import React from 'react'
 import Content from '../Content'
 import { kebabCase } from 'lodash'
 import { Link } from 'gatsby'
+import logo from '../../assets/img/logo512.png'
 
 const ArticleTemplate = ({
   content,
@@ -15,6 +16,7 @@ const ArticleTemplate = ({
   const PostContent = contentComponent || Content
   return (
     <div>
+      <img src={logo} alt={title} />
       <h1 className='title is-size-2 has-text-weight-bold is-bold-light'>
         {title}
       </h1>
