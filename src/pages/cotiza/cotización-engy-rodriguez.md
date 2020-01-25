@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: Cotización -- Engy Rodriguez
+title: Engy Rodriguez
 slug: Juegos
 date: 2020-01-24T20:51:26.892Z
 cover: /img/img_20160820_094127.jpg
