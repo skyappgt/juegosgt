@@ -9,7 +9,7 @@ tags:
 meta_title: Cotizacion Engy Lutin
 meta_description: 'Cotizacion, Engy Lutin'
 ---
-Atentamente le cotizamos lo que nos solicitara:
+# Atentamente le cotizamos lo que nos solicitara:
 
 ![Q15,885.00](/img/img_20180131_180209_802.jpg "Q15,885.00")
 
@@ -17,17 +17,15 @@ Atentamente le cotizamos lo que nos solicitara:
 
 ![Q16,250.00](/img/tarco.jpg "Q16,250.00")
 
-
-
-Las Dimensiones de un juego estandar son: 
+## Las Dimensiones de un juego estandar son: 
 
 ![Medidas](/img/tarco.png "Medidas")
 
-Pero pueden aumentar o disminuir deacuerdo al área a conveniencia.
+## Pero pueden aumentar o disminuir deacuerdo al área a conveniencia.
 
-## Condiciones:
+# Condiciones:
 
-Se solicita anticipo de 50% y la cancelación al finalizar la instalación
+Se solicita anticipo de 50% y la cancelación al finalizar la instalación.
 
 ## Entrega: (Contrato legal)
 
