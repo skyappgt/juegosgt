@@ -16,7 +16,7 @@ const ArticleTemplate = ({
   const PostContent = contentComponent || Content
   return (
     <div>
-      <div className="title is-size-2 has-text-weight-bold">
+      <div className="title-logo has-text-weight-bold">
         <h2> Jueg</h2><img  className="logo" src={logo} alt={title} />
       </div>
       <h1 className='title is-size-2 has-text-weight-bold is-bold-light'>
