@@ -18,15 +18,24 @@ Atentamente le cotizamos lo que nos solicitara:
 
 # Q198.00 / Metro cuadrado
 
-Artículo: Grama Natural 40
+> Gramilla sintética Monofilamento dos colores
+>
+> \
+>
+>
+> Altura 40mm
+>
+> \
+>
+>
+> Vida útil estimada : 10 años
+>
+> \
+>
+>
+> Garantía Internacional: 8 años
 
-Gramilla sintética Monofilamento dos colores
 
-Altura 40mm
-
-Vida útil estimada : 10 años
-
-Garantía Internacional: 8 años
 
 ## Condiciones:
 
@@ -37,8 +46,6 @@ Garantía Internacional: 8 años
 > No incluye obra civil de la base, la cual deberá estar lista para instalación de la grama
 >
 > La obra civil la podemos realizar bajo estudio previo y planificación del proyecto y cuyo costo deberá ser calculado en base a dicha planificación.
-
-
 
 ## Entrega: (Contrato legal)
 
