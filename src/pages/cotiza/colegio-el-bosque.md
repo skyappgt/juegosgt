@@ -20,22 +20,11 @@ Atentamente le cotizamos lo que nos solicitara:
 
 > Gramilla sintética Monofilamento dos colores
 >
-> \
->
->
 > Altura 40mm
->
-> \
->
 >
 > Vida útil estimada : 10 años
 >
-> \
->
->
 > Garantía Internacional: 8 años
-
-
 
 ## Condiciones:
 
