@@ -14,7 +14,7 @@ Atención : Lissbeth Contreras
 
 Atentamente le cotizamos lo que nos solicitara:
 
-![Q198.00](/img/synthetic-turf-backyard-playground-900x450.jpg "Q198.00")
+![Q198.00](/img/monofilamento40mm.jpeg "Q198.00")
 
 # Q198.00 / Metro cuadrado
 
