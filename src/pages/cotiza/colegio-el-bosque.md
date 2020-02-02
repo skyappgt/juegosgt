@@ -6,14 +6,27 @@ date: 2020-01-24T20:51:26.892Z
 cover: /img/synthetic-turf-backyard-playground-900x450.jpg
 tags:
   - Juegos infantiles
-meta_title: Cotizacion Engy Lutin
-meta_description: 'Cotizacion, Engy Lutin'
+  - grama sintetica
+meta_title: 'Grama sintética, colegio el Bosque, Iztapa'
+meta_description: 'Cotizacion, Colegio el bosque, Iztapa, grama sintética'
 ---
 Atención : Lissbeth Contreras
 
 Atentamente le cotizamos lo que nos solicitara:
 
 ![Q198.00](/img/synthetic-turf-backyard-playground-900x450.jpg "Q198.00")
+
+# Q198.00 / Metro cuadrado
+
+Artículo: Grama Natural 40
+
+Gramilla sintética Monofilamento dos colores
+
+Altura 40mm
+
+Vida útil estimada : 10 años
+
+Garantía Internacional: 8 años
 
 ## Condiciones:
 
