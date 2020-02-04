@@ -206,5 +206,14 @@ module.exports = {
       },
     },
     `gatsby-plugin-netlify`,
+    {
+      resolve: 'gatsby-plugin-crisp-chat',
+      options: {
+        websiteId: '86f2eb8b-5832-403d-b654-07f8fda04e7a',
+        enableDuringDevelop: false, // Optional. Disables Crisp Chat during gatsby develop. Defaults to true.
+        defer: true, // Optional. Sets the Crisp loading script to defer instead of async. Defaults to false.
+        enableImprovedAccessibility: false // Optional. Sets aria-label attribute on pop-up icon for screen readers. Defaults to true.
+      },
+    }
   ],
 }
