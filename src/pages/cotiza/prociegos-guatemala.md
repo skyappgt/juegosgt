@@ -45,3 +45,13 @@ Producto Ensamblado en Quetzaltenango, madera tratada nacional, Herrajes galvani
 ![](/img/img_20170703_133928.jpg)
 
 ![](/img/img_20170703_134007.jpg)
+
+Saludos.
+
+
+
+**Romeo Catalán**
+
+## **Juega Xela**
+
+_1a.  26-65 Zona 1, Quetzaltenango_
