@@ -26,7 +26,7 @@ Se ha contemplado los columpios de madera tipo canasta con seguridad al frente.
 
 ## Entrega:
 
-Entrega: 8 a 12 días hábiles a partir de recepcion de anticipo por cada juego, con Orden de trabajo (contrato legal u orden de trabajo)
+Entrega: 10 a 15 días hábiles a partir de recepción de anticipo por cada juego, con Orden de trabajo (contrato legal u orden de trabajo)
 
 Materiales de Calidad y herrajes galvanizados, son nuestra garantía así como una instalación profesional para grantizar la **No Ocurrencia** de accidentes provocados por el desconocimiento de sistemas de fijación, sujeción, rigidez, torsión, pesos máximos, colgantes, torque, palanca, entre otras fuerzas mecánicas que ocurren en un juego de uso múltiple.
 
