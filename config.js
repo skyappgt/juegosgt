@@ -17,7 +17,7 @@ module.exports = {
   themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
   dire: 'Quetzaltenango, Guatemala',
-  tel: '+502 45675974',
-  email: 'madisagt@gmail.com',
+  tel: '+502 4562-5974',
+  email: 'juegaxela@gmail.com',
   empresa: 'Juegos infantiles en madera'
 }
