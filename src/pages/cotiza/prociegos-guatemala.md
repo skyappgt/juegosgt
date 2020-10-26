@@ -3,7 +3,7 @@ templateKey: article-page
 title: Prociegos Guatemala
 slug: Comite prociegos
 date: 2020-10-26T21:43:26.896Z
-cover: /img/ico4.png
+cover: /img/monkey1.png
 tags:
   - Juega
   - juegosXela
