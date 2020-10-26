@@ -3,7 +3,7 @@ templateKey: article-page
 title: Prociegos Guatemala
 slug: Comite prociegos
 date: 2020-10-26T21:43:26.896Z
-cover: /img/ico4.png
+cover: /img/monkey1.png
 tags:
   - Juega
   - juegosXela
@@ -45,3 +45,13 @@ Producto Ensamblado en Quetzaltenango, madera tratada nacional, Herrajes galvani
 ![](/img/img_20170703_133928.jpg)
 
 ![](/img/img_20170703_134007.jpg)
+
+Saludos.
+
+
+
+**Romeo Catalán**
+
+## **Juega Xela**
+
+_1a.  26-65 Zona 1, Quetzaltenango_
