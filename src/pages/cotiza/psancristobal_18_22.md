@@ -26,8 +26,6 @@ meta_description: 'Juegos Guatemala, Spazioexterior'
 
 Incluye Materiales de calidad, madera de pino impregnado y transporte necesario para realizar los trabajos descritos
 
-
-
 ## Forma de pago:
 
 Efectivo o Cheque
@@ -38,11 +36,7 @@ Entrega: 2 a 3  días hábiles a partir de Orden de compra (contrato legal u ord
 
 Materiales de Calidad y herrajes galvanizados, son nuestra garantía así como una instalación profesional para grantizar la No Ocurrencia de accidentes provocados por el desconocimiento de sistemas de fijación, sujeción, rigidez, torsión, pesos máximos, colgantes, torque, palanca, entre otras fuerzas mecánicas que ocurren en un juego de uso múltiple.
 
-
-
 Atentamente,
-
-
 
 Romeo Catalán
 
