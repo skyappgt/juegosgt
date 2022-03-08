@@ -3,6 +3,7 @@ import Content from '../Content'
 import { kebabCase } from 'lodash'
 import { Link } from 'gatsby'
 import logo from '../../assets/img/logo512.png'
+import config from '../../../config'
 
 const ArticleTemplate = ({
   content,
@@ -18,6 +19,7 @@ const ArticleTemplate = ({
     <div>
       <div className="title-logo has-text-weight-bold">
         <h2> Jueg</h2><img  className="logo" src={logo} alt={title} />
+        <h1>{config.empresa}</h1>
       </div>
       <h1 className='title is-size-2 has-text-weight-bold is-bold-light'>
         {title}

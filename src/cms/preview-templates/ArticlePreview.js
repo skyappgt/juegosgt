@@ -1,8 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import ArticleTemplate from '../../components/ArticleTemplate'
+import moment from 'moment'
 
 const ArticlePreview = ({ entry, widgetFor }) => {
+ const date = moment(new Date()).format('DD/MM/YYYY')
+ console.log(date)
+
   return (
     <div className='container content'>
       <div className='columns'>

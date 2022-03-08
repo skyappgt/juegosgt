@@ -30,15 +30,15 @@ AboutPage.propTypes = {
 
 export default AboutPage
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      html
-      frontmatter {
-        title
-        meta_title
-        meta_description
-      }
-    }
-  }
+//export const aboutPageQuery = graphql`
+  //query AboutPage($id: String!) {
+    //markdownRemark(id: { eq: $id }) {
+      //html
+      //frontmatter {
+        //title
+        //meta_title
+        //meta_description
+      //}
+    //}
+  //}
 `

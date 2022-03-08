@@ -7,7 +7,7 @@ module.exports = {
   siteDescription: 'Juegos Infantiles y más.', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
-  googleTagManagerID: '', // GTM tracking ID.
+  googleTagManagerID: '787878', // GTM tracking ID.
   disqusShortname: 'dejuega', // Disqus shortname.
   userName: 'dejuega',
   userTwitter: 'dejuega',
@@ -16,8 +16,8 @@ module.exports = {
   copyright: 'Copyright © 2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
-  dire: 'Quetzaltenango, Guatemala',
+  dire: 'Ciudad de Guatemala',
   tel: '+502 4562-5974',
-  email: 'juegaxela@gmail.com',
+  email: 'madisagt@gmail.com',
   empresa: 'Juegos infantiles en madera'
 }
