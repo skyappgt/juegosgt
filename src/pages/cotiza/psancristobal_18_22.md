@@ -38,6 +38,6 @@ Materiales de Calidad y herrajes galvanizados, son nuestra garantía así como u
 
 Atentamente,
 
-Romeo Catalán
+> **Romeo Catalán**
 
 ![](/img/ventasjga.png)
