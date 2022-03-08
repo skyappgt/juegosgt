@@ -1,7 +1,7 @@
 ---
 templateKey: article-page
-title: Psancristobal_18_22
-slug: Mantenimiento
+title: 8177461-3
+slug: Mantenimiento Colegio Verbo
 date: 2022-02-19T01:41:28.135Z
 cover: /img/forest.png
 tags:
@@ -9,14 +9,19 @@ tags:
 meta_title: Mantenimiento
 meta_description: 'Juegos Guatemala, Spazioexterior'
 ---
-# **Mantenimiento**
+# Cotización
 
-* Q5,8500
+* 1 Cambio de paral principal de torre
+* 1 Cambio de Pasamanos (completo, 2 vigas y 6 cilindros )
+* 1 Reparacion y refuerzo de rampa escaladora
+* 1 Cambio de Viga de columpio .
+* 2 Cambio de escalones en mal estado 
+* ## Mantenimiento
+* 1 Lijado donde se requiera y aplicacion de Impermeabilizante Osmocolor general en todo el juego 
+* Ajuste y cambio de herrajes en mal estado 
 
 
 
+## Costo Total   Q5,037.50
 
-
-Juegalo
-
-Proyectos
+>
